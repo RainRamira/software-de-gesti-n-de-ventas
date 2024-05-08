@@ -1,48 +1,18 @@
-# TPI PROGRAMACION II GRUPO 26 - PROYECTO FARMACIA. 🖥️🖱️💊
-
-1. [Descripción](#Descripción)
-2. [Características](#Caracteristicas-principales)
-3. [Software Utilizado](#Software-utilizado)
-4. [Integrantes Grupo 26](#Integrantes-Grupo-26)
-5. [Info Adicional](#Info-adicional)
+# Sistema POS para Farmacia.
 
 ## **Descripción**:
 
-Trabajo práctico integral y grupal que encapsula todos los contenidos observados durante la asignatura Programación II en este segundo semestre 2023.
+Un sistema de punto de venta diseñado para optimizar las operaciones de una farmacia. Este software proporciona herramientas eficientes para gestionar transacciones, controlar inventario, realizar facturación y mucho más, todo en un entorno intuitivo y fácil de usar.
 
 ## **Caracteristicas principales**:
 
-Comprende:
-- POO Avanzada.
-- Procedimientos almacenados en MS-SQL Server.
-- Windows Forms.
-- Gestión de Maestro-Detalle.
-- Manejo de transacciones.
-- Patrones de diseño.
-- Servicios
-- WebAPI
-  
+![Static Badge](https://img.shields.io/badge/Poo_Avanzada-C%23-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Store_Procedure-SqlServer-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Winforms-Visual_Studio-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Patrones_de_Dise%C3%B1o-C%23-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Web_Api-grey?style=for-the-badge)
+
 ## **Software utilizado**: 
 
-- Microsoft Visual Studio Community 2022 (64 bits).
-- Microsoft SQL Server Management Studio 2018.
-- Repositorio: GitHub
-
-## **Integrantes Grupo 26**:
-
-| Matricula | Apellido y Nombre |
-|:--------- | :-------|
-| 405950 | Barrionuevo Natanael |
-| 405660 | Nieto Agustín |
-| 114005 | Ramira Sanna Rain |
-| 405262 | Castillo Scipioni Victor Gabriel |
-| 113950 | Luna Valentina |
-| 113876 | Paolucci Agustin M |
-
-## **Info adicional**:
-- Comisión: 1W3
-- Grupo número: 26
-- Fecha de Entrega: 21/11/2023
-- Profesores full paciencia: Martin Poliotto / Roger Martinez.
-
-®2023
+![Static Badge](https://img.shields.io/badge/Microsoft_Visual_Studio_Framework-purple?style=for-the-badge&logo=visualstudio)
+![Static Badge](https://img.shields.io/badge/SQLServer-blue?style=for-the-badge&logo=microsoftsqlserver)
